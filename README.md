@@ -1,4 +1,4 @@
-# Simple Chat App with Socket IO & NodejS
+# Simple Chat App with SocketIO & NodeJS
 
 A simple browser chat app with Socket IO & NodeJS
 
